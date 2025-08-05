@@ -1,0 +1,126 @@
+Location_11: 0.0126
+Location_21: 0.0032
+Location_22: 0.0047
+Location_23: 0.0009
+Location_32: 0.0074
+Location_33: 0.0029
+Location_34: 0.0004
+Location_35: 0.0006
+Location_36: 0.0001
+Location_37: 0.0027
+Location_41: 0.0008
+Location_42: 0.0018
+Location_44: 0.0002
+Location_45: 0.0011
+Location_46: 0.0001
+Location_50: 0.0014
+Location_51: 0.0002
+Location_61: 0.0052
+Location_62: 0.0001
+Location_64: 0.0002
+Location_65: 0.0004
+Main Material_BR: 0.0001
+Main Material_CM: 0.0041
+Main Material_COS: 0.0299
+Main Material_CS: 0.0004
+Main Material_CSg: 0.0003
+Main Material_CcV: 0.0001
+Main Material_ChM: 0.0057
+Main Material_CtS: 0.0004
+Main Material_DG: 0.0086
+Main Material_DMa: 0.0007
+Main Material_DS: 0.0005
+Main Material_EF: 0.0003
+Main Material_ExT: 0.0004
+Main Material_FR: 0.0008
+Main Material_FW: 0.0028
+Main Material_GW: 0.0036
+Main Material_MS: 0.0020
+Main Material_MSW: 0.0013
+Main Material_MStr: 0.0023
+Main Material_PM: 0.0040
+Main Material_RH: 0.0060
+Main Material_RS: 0.0010
+Main Material_SD: 0.0005
+Main Material_SE: 0.0007
+Main Material_SM: 0.0031
+Main Material_SS: 0.0650
+Main Material_VW: 0.0026
+Main Material_WGP: 0.0012
+Main Material_WS: 0.0055
+Main Percentage_Percentage_30to60: 0.0025
+Main Percentage_Percentage_below30: 0.0004
+Main Percentage_Unknown: 0.0041
+Secondary Material_COS: 0.0005
+Secondary Material_CS: 0.0049
+Secondary Material_ChM: 0.0009
+Secondary Material_DG: 0.0002
+Secondary Material_ExT: 0.0031
+Secondary Material_FR: 0.0003
+Secondary Material_FW: 0.0002
+Secondary Material_GLR: 0.0002
+Secondary Material_GW: 0.0010
+Secondary Material_ISS: 0.0039
+Secondary Material_LMD: 0.0003
+Secondary Material_MS: 0.0046
+Secondary Material_MStr: 0.0004
+Secondary Material_PM: 0.0048
+Secondary Material_RC: 0.0001
+Secondary Material_RH: 0.0004
+Secondary Material_RS: 0.0055
+Secondary Material_SC: 0.0016
+Secondary Material_SCL: 0.0001
+Secondary Material_SD: 0.0032
+Secondary Material_SM: 0.0005
+Secondary Material_SMa: 0.0001
+Secondary Material_SS: 0.0022
+Secondary Material_WS: 0.0380
+Secondary Material_nan: 0.0261
+2nd Percentage_Percentage_30to60: 0.0036
+2nd Percentage_Percentage_below30: 0.0083
+2nd Percentage_Unknown: 0.0032
+Addives_Type_Com: 0.0057
+Addives_Type_Ino: 0.0072
+Addives_Type_No Additive: 0.0195
+Addives_Type_Org: 0.0073
+Addives_Type_Ref: 0.0001
+Pretreatment_Type_No Pretreatment: 0.0049
+Pretreatment_Type_PhyP: 0.0049
+Seed Type_BoC: 0.0052
+Seed Type_CCab: 0.0185
+Seed Type_CRos: 0.0109
+Seed Type_Carr: 0.0000
+Seed Type_CorS: 0.0019
+Seed Type_Cres: 0.0037
+Seed Type_Cucu: 0.0053
+Seed Type_ERap: 0.0202
+Seed Type_FRad: 0.0020
+Seed Type_KomS: 0.0008
+Seed Type_Lett: 0.0005
+Seed Type_LsL: 0.0040
+Seed Type_Pea: 0.0009
+Seed Type_RRan: 0.0015
+Seed Type_RiSe: 0.0001
+Seed Type_SoyS: 0.0003
+Seed Type_Toma: 0.0118
+Seed Type_WRad: 0.0081
+Seed Type_WhSe: 0.0006
+Composting Tech_Re: 0.0050
+Composting Tech_Tr: 0.0030
+Composting Tech_Wd: 0.0040
+Volume_Volume_100_to_1000: 0.0045
+Volume_Volume_10_to_30: 0.0019
+Volume_Volume_1k_to_3k: 0.0033
+Volume_Volume_30_to_100: 0.0096
+Volume_Volume_3k_to_10k: 0.0016
+Volume_Volume_below10: 0.0013
+Volume_Volume_huge: 0.0098
+Ventilation_In: 0.0050
+Ventilation_Tu: 0.0125
+Ventilation_nan: 0.0021
+TIME: 0.3007
+Ambient Temperature: 0.0174
+Stack Temperature: 0.0496
+pHa: 0.0382
+ECa: 0.0200
+C/N Ratio: 0.0388
